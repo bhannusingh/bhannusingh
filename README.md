@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm bhanu pratap singh</h1>
+h1 align="center">Hi 👋, I'm bhanu pratap singh </h1>
 <h3 align="center">A passionate frontend developer & backend developer from India</h3>
 
 - 🔭 I’m currently working on **improving my skills by making clone**
